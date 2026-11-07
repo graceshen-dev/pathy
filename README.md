@@ -1,6 +1,8 @@
 # Pathy
 Mentorship for first-generation students heading to Ontario universities.
 
+Link: https://explore-pathy.lovable.app/
+
 ## Development
 Many first-generation students don't have someone at home who has been through university applications. Pathy connects them with university students who have walked the same path.
 
